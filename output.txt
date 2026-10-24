@@ -1,0 +1,31 @@
+MOTORCYCLE BRANDS
+=========================
+HONDA MOTORCYCLE
+Brand: Honda
+Model: Click 125i
+Year: 2025
+Price: PHP 81900.00
+Description: A Honda motorcycle for everyday riding.
+-------------------------
+YAMAHA MOTORCYCLE
+Brand: Yamaha
+Mod
+Price: PHP 93900.00
+Description: Ael: Mio Fazzio
+Year: 2025 Yamaha motorcycle for comfortable city travel.
+-------------------------
+ENCAPSULATION
+=========================
+Original price: PHP 81900.00
+Updated price: PHP 85000.00
+
+MIXIN DEMONSTRATION
+=========================
+Reminder: Check the tires, brakes, and engine regularly.
+
+ASYNC/AWAIT DEMONSTRATION
+=========================
+Preparing to save motorcycle data...
+Saving data. Please wait...
+Motorcycle data saved successfully: Honda - Click 125i
+Data saving operation completed.
